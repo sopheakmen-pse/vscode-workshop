@@ -1,6 +1,8 @@
 # VSCODE WORKSHOP
 
 ### 1. Auto Rename Tag
+Auto Rename Tage by Jun Han: Automatically renames paired HTML tags when you modify one of them.
+
 
 <figure>
     <img src="images/logos/auto-rename-tag.png" alt="logo" width="100" height="100" />    
@@ -12,6 +14,8 @@
 
 
 ### 2. CSS Peek
+CSS Peek by Pranay Prakash: Allow peeking to css ID and class strings as definitions from html files to respective CSS. Allows peek and goto definition.
+
 
 <figure>
 <img src="images/logos/css-peek.png" alt="logo" width="100" height="100" />
@@ -24,6 +28,8 @@
 
 
 ### 3. IntelliSense for CSS class names in HTML
+IntelliSense for CSS class names in HTML by Zignd: CSS class name completion for the HTML class attribute based on the definitions found in your workspace.
+
 
 <figure>
 <img src="images/logos/intellisense-for-css.png" alt="logo" width="100" height="100" />
@@ -36,6 +42,8 @@
 
 
 ### 4. Live Server
+Live Server by Ritwick Dey: Launch a development local Server with live reload feature for static & dynamic pages.
+
 
 <figure>
 <img src="images/logos/live-server.png" alt="logo" width="100" height="100" />
@@ -47,6 +55,8 @@
 
 
 ### 5. HTMLHint
+HTMLHint by HTMLHint: VS Code integration for HTMLHint - A Static Code Analysis Tool for HTML.
+
 
 <figure>
 <img src="images/logos/htmlhint.png" alt="logo" width="100" height="100" />
@@ -59,6 +69,8 @@
 
 
 ### 6. Prettier - Code formatter
+Prettier - Code formatter by Prettier: Enforces a consistent code style by formatting your JavaScript code.
+
 
 <figure>
 <img src="images/logos/prettier.png" alt="logo" width="100" height="100" />
@@ -71,6 +83,8 @@
 
 
 ### 7. VSCODE-ICONS
+vscode-icons by VSCode Icons Team: Icons for Visual Studio Code.
+
 
 <figure>
 <img src="images/logos/vscode-icon.png" alt="logo" width="100" height="100" />
