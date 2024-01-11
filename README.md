@@ -96,6 +96,14 @@ vscode-icons by VSCode Icons Team: Icons for Visual Studio Code.
 ![change theme](images/change-theme.png)
 
 
+**Note: Format on save**
+
+1. Go to settings
+![setting](images/go-to-settings.png)
+2. Type "format" on search box and check "Format on Save"
+![format-on-save](images/check-format-on-save.png)
+
+
 ### 8. GitHub Theme
 
 <figure>
@@ -105,13 +113,6 @@ vscode-icons by VSCode Icons Team: Icons for Visual Studio Code.
 - Install "GitHub Theme" [Install](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
 - To change color theme => Color Theme
 ![change theme](images/change-theme.png)
-
-**Note: Format on save**
-
-1. Go to settings
-![setting](images/go-to-settings.png)
-2. Type "format" on search box and check "Format on Save"
-![format-on-save](images/check-format-on-save.png)
 
 ## Emmet Tools
 
